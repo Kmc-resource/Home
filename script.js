@@ -5,7 +5,7 @@ const syllabusLinks = {
             '2nd Sem': 'https://example.com/zoology-1st-year-2nd-sem.pdf'
         },
         '2nd Year': {
-            '3rd Sem': 'https://example.com/zoology-2nd-year-3rd-sem.pdf',
+            '3rd Sem': 'https://drive.google.com/file/d/1KLanzAdaUTvM86fqhhHzXuaJr39hgx7O/view?usp=drive_link',
             '4th Sem': 'https://example.com/zoology-2nd-year-4th-sem.pdf'
         },
         '3rd Year': {
